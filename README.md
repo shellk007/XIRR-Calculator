@@ -3,10 +3,10 @@
 This project is a simple GUI-based calculator built with Python and Tkinter that allows users to calculate the Extended Internal Rate of Return (XIRR) for a series of investments and a return amount. The user enters multiple investments with dates, and the calculator computes the XIRR based on these inputs.
 
 **Features**
-User-friendly Tkinter GUI.
-Input for multiple investments and their respective dates.
-Input for return amount and calculation of XIRR.
-Display of investment details along with the calculated XIRR.
+--User-friendly Tkinter GUI.
+--Input for multiple investments and their respective dates.
+--Input for return amount and calculation of XIRR.
+--Display of investment details along with the calculated XIRR.
 
 **Prerequisites**
 Before running the application, ensure you have the following software and libraries installed:
