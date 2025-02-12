@@ -66,4 +66,4 @@ This project is open-source and available under the MIT License. See the LICENSE
 **Contact Information**
 Author: Shailesh Kaushik
 Linkedin: https://www.linkedin.com/in/shailesh-kaushik-3262602a/
-Youtube: https://www.youtube.com/@shaileshkaushik/featured
+Youtube: https://www.youtube.com/@shaileshkaushik
